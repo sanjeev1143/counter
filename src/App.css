@@ -1,0 +1,19 @@
+.item {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  ;
+  font-weight: 700;
+  font-size: larger;
+  font-family: 'Big Shoulders Stencil Display', cursive;
+  height: fit-content;
+  text-align: center;
+  width: 50vw;
+  background-color: #00203FFF;
+  color: #ADEFD1FF;
+
+}
+
+body {
+  background-color: #ADEFD1FF;
+}
